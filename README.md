@@ -1,5 +1,5 @@
-Hi there! 👋 
+# **Hi there!** 👋 
 
-Helping developers build with AI!
+Helping developers build with **AI**!
 
-📫 How to reach me charles04.nilsson@gmail.com
+📫 How to reach me : _charles04.nilsson@gmail.com_
